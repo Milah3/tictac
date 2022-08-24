@@ -105,7 +105,7 @@ class Game extends React.Component {
         }
 
         else {
-            status = 'Copy Next Player: ' + this.state.nextPlayer
+            status = 'Next Player: ' + this.state.nextPlayer
         }
 
         return (
