@@ -1,3 +1,3 @@
-# Getting Started with Create React App
+# Basic TicTacToe game - Introduction to React.  
 
- Basic TicTacToe game - Introduction to React. 
+Shoutout to the react documentation website: https://reactjs.org/tutorial/tutorial.html
